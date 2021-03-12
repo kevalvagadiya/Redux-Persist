@@ -1,0 +1,29 @@
+.tabbar-wrapper {
+  margin-top: 50px;
+  padding: 0px 220px;
+}
+.MuiTab-textColorPrimary {
+  outline: none;
+}
+.MuiTab-root {
+  max-width: fit-content !important;
+}
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #f50057 !important;
+}
+.PrivateTabIndicator-colorPrimary-7 {
+  background-color: #f50057 !important;
+}
+.mdc-tab__text-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content-wrapper {
+  margin-top: 40px;
+}
+.content-listing {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 15px;
+}
